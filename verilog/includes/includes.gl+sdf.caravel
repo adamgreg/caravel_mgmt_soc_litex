@@ -44,8 +44,8 @@ $CARAVEL_PATH/gl/digital_pll.v
 $CARAVEL_PATH/gl/user_id_programming.v  	
 $CARAVEL_PATH/gl/caravel.v			
 $CARAVEL_PATH/gl/caravan.v			
-$CARAVEL_PATH/gl/caravel_core.v			
-$CARAVEL_PATH/gl/caravan_core.v
+# $CARAVEL_PATH/gl/caravel_core.v			
+# $CARAVEL_PATH/gl/caravan_core.v
 $CARAVEL_PATH/gl/caravan_signal_routing.v
 $CARAVEL_PATH/gl/empty_macro_1.v
 

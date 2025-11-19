@@ -46,8 +46,8 @@ $CARAVEL_PATH/gl/caravel.v
 $CARAVEL_PATH/gl/caravan.v			
 $CARAVEL_PATH/gl/caravel_core.v			
 $CARAVEL_PATH/gl/caravan_core.v
-$(CARAVEL_PATH)/gl/caravan_signal_routing.v 
-$(CARAVEL_PATH)/gl/empty_macro_1.v 			
+$CARAVEL_PATH/gl/caravan_signal_routing.v
+$CARAVEL_PATH/gl/empty_macro_1.v
 
 // These blocks are manually designed	     
 $CARAVEL_PATH/gl/gpio_defaults_block_0403.v	
